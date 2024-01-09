@@ -1,0 +1,33 @@
+/* Selector universal */
+* {
+  font-family: sans-serif;
+}
+
+/* Cambiamos el color de la hoja mediante el selector de etiqueta */
+body {
+  background-color: #131415;
+}
+
+/* Cambiamos el  color del título mediante elselector de etiquetas  */
+h1 {
+  color: #fff;
+  font-size: 30px;
+}
+
+/* Cambiamos el color del párrafo mediante el selector de etiquetas */
+p {
+  color: blue;
+  font-size: 24px;
+}
+
+/* Cambiamos el color del párrafo mediante el selector id */
+#Selector_id {
+  color: yellow;
+  font-size: 22px;
+}
+
+/* Cambiamos el color del párrafo mediante el selector de clase */
+.Selector_clase {
+  color: crimson;
+  font-size: 20px;
+}
